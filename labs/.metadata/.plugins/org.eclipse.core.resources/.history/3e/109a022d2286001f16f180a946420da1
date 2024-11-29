@@ -1,0 +1,11 @@
+package task1;
+
+public class Main {
+	public static void main(String[] args) {
+		Rectangle rec1 = new Rectangle(4, Color.blue, 5, 6);
+		
+		System.out.print(rec1);
+		
+		
+	}
+}

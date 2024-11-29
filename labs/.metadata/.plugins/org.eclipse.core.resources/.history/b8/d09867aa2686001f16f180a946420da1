@@ -1,0 +1,12 @@
+package task1;
+import java.util.HashSet;
+public class Main {
+	public static void main(String[] args) {
+		HashSet<Shape> shapes = new HashSet<>();
+		Rectangle rec1 = new Rectangle(4, Color.blue, 5, 6);
+		rec1.getColor();
+		rec1.draw();
+		
+		
+	}
+}

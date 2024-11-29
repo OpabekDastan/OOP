@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Users\Дастан\Desktop\OOP\labs\.metadata\.plugins\org.eclipse.jdt.core
+2098144944.index
+168302118.index
+1007340512.index
+2810070743.index
+509665796.index
+87111012.index
+2490139525.index
+3825628938.index
+2053300905.index
+2710235139.index
+3815486227.index
+1865797976.index
+1480217841.index

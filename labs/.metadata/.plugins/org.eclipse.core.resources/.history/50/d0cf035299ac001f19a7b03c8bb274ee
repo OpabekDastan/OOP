@@ -1,0 +1,25 @@
+package interfaces;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Student s1 = new Student("Zhantore", 18, 4500);
+		Student s2 = new Student("Tsoy", 19, 1000);
+		
+		Dog d1 = new Dog("Tuzik",3,"bulldog");
+		
+		Restaurant r1 = new Restaurant("Tagam",200000);
+		
+		s2.eatPizza();
+		
+		System.out.println(r1.getKapital());
+		r1.servePizza(s1);
+		System.out.println(r1.getKapital());
+		
+		r1.servePizza(d1);
+
+	}
+
+}

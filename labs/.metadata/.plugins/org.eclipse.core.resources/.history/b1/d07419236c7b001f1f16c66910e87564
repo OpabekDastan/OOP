@@ -1,0 +1,23 @@
+package lesson_codes;
+
+public class Pencil {
+	public String color = "red";
+	public int length;
+	public double diameter; 
+	private double price = 0; 
+	public static long numberOfPencils = 0;
+	public void setPrice (float newPrice) {
+		if(newPrice >= 0) { 
+			price = newPrice;
+		}
+		else {
+			System.out.println("ERROR");
+		}  		
+		
+		
+		
+		 
+		
+	}
+
+}
